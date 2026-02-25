@@ -8,7 +8,7 @@ This is the classic "Hello World" of embedded development — blinking an LED. S
 
 ## What It Does
 
-Blinks the onboard green LED (LD2) on the NUCLEO-F446RE at a 500ms interval — on for half a second, off for half a second, indefinitely.
+Blinks the onboard green LED (LD2) on the NUCLEO-F446RE at a 1000ms interval — on for a second, off for a second, indefinitely.
 
 ## Hardware
 
