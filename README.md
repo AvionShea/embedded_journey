@@ -24,6 +24,7 @@ Embedded software powers the systems that matter most — flight computers, guid
 | Project                                         | Description           | Concepts Covered                   |
 | ----------------------------------------------- | --------------------- | ---------------------------------- |
 | [NUCLEO-F446RE_Blinky](./NUCLEO-F446RE_Blinky/) | Blink the onboard LED | GPIO, HAL, project setup, flashing |
+| [NUCLEO-F446RE_Button_LED](./NUCLEO-F446RE_Button_LED/) | Toggle LED with onboard button | GPIO input, active low, debouncing, reactive firmware |
 
 _More projects coming as I progress through the curriculum._
 
