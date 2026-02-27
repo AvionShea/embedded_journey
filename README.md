@@ -21,10 +21,11 @@ Embedded software powers the systems that matter most — flight computers, guid
 
 ## Projects
 
-| Project                                         | Description           | Concepts Covered                   |
-| ----------------------------------------------- | --------------------- | ---------------------------------- |
-| [NUCLEO-F446RE_Blinky](./NUCLEO-F446RE_Blinky/) | Blink the onboard LED | GPIO, HAL, project setup, flashing |
-| [NUCLEO-F446RE_Button_LED](./NUCLEO-F446RE_Button_LED/) | Toggle LED with onboard button | GPIO input, active low, debouncing, reactive firmware |
+| Project                                                 | Description                                               | Concepts Covered                                              |
+| ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
+| [NUCLEO-F446RE_Blinky](./NUCLEO-F446RE_Blinky/)         | Blink the onboard LED                                     | GPIO, HAL, project setup, flashing                            |
+| [NUCLEO-F446RE_Button_LED](./NUCLEO-F446RE_Button_LED/) | Toggle LED with onboard button                            | GPIO input, active low, debouncing, reactive firmware         |
+| [NUCLEO-F446RE_UART_Hello](./NUCLEO-F446RE_UART_Hello/) | Transmit "Hello World!" over UART serial to a PC terminal | UART, HAL_UART_Transmit, baud rate configuration, PuTTY setup |
 
 _More projects coming as I progress through the curriculum._
 
